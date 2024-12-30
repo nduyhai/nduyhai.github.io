@@ -1,0 +1,4 @@
+baseURL = 'https://blogs.nduyhai.com/'
+languageCode = 'en-us'
+title = "nduyhai's blogs"
+theme = 'ananke'
