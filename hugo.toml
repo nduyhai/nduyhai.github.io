@@ -1,4 +1,4 @@
-baseURL = 'https://blogs.nduyhai.com/'
+baseURL = 'https://blog.nduyhai.com/'
 languageCode = 'en-us'
 title = "nduyhai's blogs"
 theme = 'ananke'
