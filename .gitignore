@@ -1,6 +1,6 @@
 # Hugo build output
-#/public/
-#/resources/
+/public/
+/resources/
 
 # Hugo environment files
 hugo_stats.json
