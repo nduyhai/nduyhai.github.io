@@ -110,12 +110,12 @@ In these cases, it's crucial to have:
 - A clear and complete documentation agreement with the partner regarding which HTTP statuses indicate success, failure, or require special handling.
 - Any unknown or undefined statuses should default to **UNKNOWN**, not blindly assumed as success or failure.
 
-![Error response](https://github.com/nduyhai/nduyhai.github.io/blob/main/assets/res_1.png "Error response")
+![Error response](https://raw.githubusercontent.com/nduyhai/nduyhai.github.io/main/assets/res_1.png "Error response")
 
 
 The same principle applies to parsing error codes inside the response body — avoid making assumptions without strict definitions.
 
-![Error body](https://github.com/nduyhai/nduyhai.github.io/blob/main/assets/res_2.png "Error body")
+![Error body](https://raw.githubusercontent.com/nduyhai/nduyhai.github.io/main/assets/res_2.png "Error body")
 
 ### Uncontrolled Retry
 
