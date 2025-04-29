@@ -111,13 +111,13 @@ In these cases, it's crucial to have:
 - Any unknown or undefined statuses should default to **UNKNOWN**, not blindly assumed as success or failure.
 
 
-<img src="/assets/res_1.png" alt="Unknown status">
+<img src="https://github.com/nduyhai/nduyhai.github.io/blob/main/assets/res_1.png" alt="Unknown status">
 
 
 The same principle applies to parsing error codes inside the response body — avoid making assumptions without strict definitions.
 
 
-<img src="/assets/res_2.png" alt="Unknown status">
+<img src="https://github.com/nduyhai/nduyhai.github.io/blob/main/assets/res_2.png" alt="Unknown status">
 
 ### Uncontrolled Retry
 
