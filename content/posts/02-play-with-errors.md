@@ -1,7 +1,7 @@
 +++
 date = '2025-04-29T17:49:04+07:00'
 draft = false
-title = '02 Play With Errors'
+title = 'Play With Errors'
 +++
 
 ## Introduction
